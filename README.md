@@ -95,12 +95,12 @@ Replace the placeholder API key in two files:
 
 **NetworkService.swift:**
 ```swift
-private let apiKey = "YOUR_ACTUAL_API_KEY_HERE"
+private let apiKey = "d10a282284414326b9ae589b349e2c82"
 ```
 
 **Constants.swift:**
 ```swift
-static let apiKey = "YOUR_ACTUAL_API_KEY_HERE"
+static let apiKey = "d10a282284414326b9ae589b349e2c82"
 ```
 
 ## Usage
